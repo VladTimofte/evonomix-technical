@@ -1,0 +1,47 @@
+[{
+        "title": "Oferta saptamanii",
+        "description": "Nu ratati ceea mai tare oferta a saptamanii noastre!",
+        "buttonText": "Detalii",
+        "buttonLink": "/detalii",
+        "background": {
+                "backgroundImage": "./assets/img/carousel-1.jpg",
+                "backgroundColor": "#444444"
+        }
+    },{
+        "title": "Black Friday",
+        "description": "Nu ratati Black Friday!",
+        "buttonText": "Detalii",
+        "buttonLink": "/detalii",
+        "background": {
+                "backgroundImage": "./assets/img/carousel-2.jpg",
+                "backgroundColor": "#C8DFF4"
+        }
+    },{
+        "title": "Reduceri de Craciun",
+        "description": "Cele mai mari reduceri acum de Craciun!",
+        "buttonText": "Detalii",
+        "buttonLink": "/detalii",
+        "background": {
+                "backgroundImage": "./assets/img/carousel-3.jpg",
+                "backgroundColor": "#CDF4C8"
+        }
+    },{
+        "title": "Sarbatori fericite",
+        "description": "Hohoho, si anul acesta va intra prin semineu",
+        "buttonText": "Detalii",
+        "buttonLink": "/detalii",
+        "background": {
+                "backgroundImage": "./assets/img/carousel-4.jpg",
+                "backgroundColor": "#DFC8F4"
+        }
+    },{
+        "title": "Ultima ta sansa",
+        "description": "Nu ratati ultima ta sansa!",
+        "buttonText": "Detalii",
+        "buttonLink": "/detalii",
+        "background": {
+                "backgroundImage": "./assets/img/carousel-5.jpg",
+                "backgroundColor": "#F4F3C8"
+        }
+    }
+]
